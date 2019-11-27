@@ -6,6 +6,7 @@ isrg.trustid.ocsp.identrust.com
 o.ss2.us
 ocsp-ssl.certificat2.com
 ocsp.affirmtrust.com
+ocsp.apple.com
 ocsp.buypass.no
 ocsp.camerfirma.com
 ocsp.cloudflare.com
